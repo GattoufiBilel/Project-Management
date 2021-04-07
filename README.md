@@ -1,8 +1,8 @@
 ## PRODUCT MANAGEMENT 
 ### Project JEE SERVLET & JSP 
 + ####  Architecture MVC & DAO
-  + ***Model*** 
-  + ***View***
-  + ***Controller***
+  + ***Model*** => Beans 
+  + ***View***  => JSP
+  + ***Controller*** => Servlet 
 + ### SingletonConnection 
 + ### Beans 
