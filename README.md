@@ -2,7 +2,7 @@
 ### Project JEE SERVLET & JSP 
 + ####  Architecture MVC & DAO
   + ***Model*** 
-  + View
-  + Controller 
+  + ***View***
+  + ***Controller***
 + ### SingletonConnection 
 + ### Beans 
