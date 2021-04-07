@@ -1,6 +1,6 @@
 ## PRODUCT MANAGEMENT 👨‍💻
 ---------------------------------------------
-### Project JEE SERVLET & JSP 🛠⚙👨‍💻💻
+### DESCRIPTION : 📝 Project JEE SERVLET & JSP 🛠⚙👨‍💻💻
 ==============================================
 
 + ####  Architecture MVC & DAO
